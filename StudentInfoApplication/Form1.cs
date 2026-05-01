@@ -12,7 +12,7 @@ namespace StudentInfoApplication
 {
     public partial class FrmInfoStudent : Form
     {
-        public FrmInfoStudent(
+        public FrmInfoStudent()
         {
 
             InitializeComponent();
